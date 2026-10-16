@@ -1,14 +1,11 @@
-streamlit
 yfinance
 pandas
 numpy
 plotly
-requests
-transformers
+streamlit
 torch
-sentencepiece
-accelerate
+transformers
 newspaper3k
-lxml_html_clean
 scikit-learn
 xgboost
+lxml_html_clean
